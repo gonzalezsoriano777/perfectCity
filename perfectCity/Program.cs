@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace perfectCity
 {
-    class Program
+    public class Destination
     {
-        static void Main(string[] args)
+        double perfectCity(double[] departure, double[] destination)
         {
-            Console.WriteLine("hello, world!!");
+
+            Console.WriteLine("hello, world!");
         }
     }
 }
